@@ -25,4 +25,4 @@ end
 
 # new portfolio with stocks
 portfolio = Portfolio.new([Stock.new("AAPL", "2019-01-01")])
-p portfolio.profit("2019-01-01", "2019-01-02")
+p portfolio.profit("2019-01-01", "2019-01-03")
